@@ -1,0 +1,71 @@
+.imgintro,
+.imagenCorte {
+  padding-right: 2rem !important;
+  border-radius: 15vh;
+}
+
+.lil_description {
+  color: gray;
+  font-size: smaller;
+}
+
+.icons > a {
+  text-decoration: none;
+}
+
+.logo {
+  height: 9vh;
+  width: auto;
+}
+
+.main {
+  background-color: rgba(0, 0, 0, 0.876);
+  color: white;
+  text-align: justify;
+}
+
+.parallax {
+  /* The image used */
+  background-image: url("/media/blog_4_original-1-1024x665.jpg");
+
+  /* Set a specific height */
+  min-height: 500px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/*fonts*/
+.Dosis {
+  font-family: "Dosis", sans-serif;
+}
+.lato {
+  font-family: "Lato", sans-serif;
+}
+.Montserrat {
+  font-family: "Montserrat", sans-serif;
+}
+.Nunito {
+  font-family: "Nunito", sans-serif;
+}
+.OpenSans {
+  font-family: "Open Sans", sans-serif;
+}
+.Oswald {
+  font-family: "Oswald", sans-serif;
+}
+.PatuaOne {
+  font-family: "Patua One", cursive;
+}
+.Raleway {
+  font-family: "Raleway", sans-serif;
+}
+.Roboto {
+  font-family: "Roboto", sans-serif;
+}
+.SourceSansPro {
+  font-family: "Source Sans Pro", sans-serif;
+}
